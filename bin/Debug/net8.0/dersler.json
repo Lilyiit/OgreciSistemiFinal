@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "mat",
+    "Credit": 2,
+    "Instructor": {
+      "Department": "bilgisyar programc\u0131l\u0131g\u0131",
+      "Id": 0,
+      "Name": "Umit",
+      "Email": "umit@gmail.com"
+    },
+    "EnrolledStudents": [
+      {
+        "EnrollmentYear": 2022,
+        "Id": 1,
+        "Name": "Yunus",
+        "Email": "yunus@gmail.com"
+      }
+    ]
+  },
+  {
+    "Name": "mat",
+    "Credit": 2,
+    "Instructor": {
+      "Department": "bilgisyar programc\u0131l\u0131g\u0131",
+      "Id": 0,
+      "Name": "umit",
+      "Email": "umit@gmail.com"
+    },
+    "EnrolledStudents": [
+      {
+        "EnrollmentYear": 2022,
+        "Id": 1,
+        "Name": "Yunus",
+        "Email": "yunus@gmail.com"
+      }
+    ]
+  }
+]
